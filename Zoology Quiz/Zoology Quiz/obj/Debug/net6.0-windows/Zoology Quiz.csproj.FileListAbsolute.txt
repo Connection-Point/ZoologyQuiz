@@ -1,0 +1,21 @@
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\bin\Debug\net6.0-windows\Zoology Quiz.exe
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\bin\Debug\net6.0-windows\Zoology Quiz.deps.json
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\bin\Debug\net6.0-windows\Zoology Quiz.runtimeconfig.json
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\bin\Debug\net6.0-windows\Zoology Quiz.dll
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\bin\Debug\net6.0-windows\ref\Zoology Quiz.dll
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\bin\Debug\net6.0-windows\Zoology Quiz.pdb
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.csproj.AssemblyReference.cache
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology_Quiz.Login.resources
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.csproj.GenerateResource.cache
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.AssemblyInfoInputs.cache
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.AssemblyInfo.cs
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.csproj.CoreCompileInputs.cache
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.dll
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\ref\Zoology Quiz.dll
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.pdb
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology Quiz.genruntimeconfig.cache
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology_Quiz.Main.resources
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology_Quiz.Properties.Resources.resources
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology_Quiz.PlayQuiz.resources
+C:\Users\KcNco\Desktop\Zoology Quiz\Zoology Quiz\obj\Debug\net6.0-windows\Zoology_Quiz.Scoreboard.resources
